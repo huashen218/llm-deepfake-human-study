@@ -2,8 +2,8 @@
     "mturk_env_config": {
         "reward": "0.1",
         "sandbox_env": false,
-        "aws_access_key_id": "AKIA5TANMX2YVIVWTTPU",                             
-        "aws_secret_access_key": "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"     
+        "aws_access_key_id": "",                             
+        "aws_secret_access_key": ""     
     },
     "hit_config": {
         "MaxAssignments": 240,
