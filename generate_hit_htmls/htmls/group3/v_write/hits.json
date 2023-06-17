@@ -1,0 +1,460 @@
+{
+  "hit0": {
+    "Answers": [
+      {
+        "WorkerID": "AR0VJ5XRG16UJ",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "The sentence has grammatical issues, repetition and lacks common sense, also contains logical errors.",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "Para 1 lacks a proper opening thereby containing logical error and / or lack of creativity.  Note para 2 has a typo!",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "Writing is erratic and lacks common sense",
+        "A4Q1": "Paragraph 3",
+        "A4Q2": "Paragraph has repetition, lacks common sense and writing is erratic.",
+        "A5Q1": "Paragraph 3",
+        "A5Q2": "Writing is erratic, awkwardly constructed, though I understand the meaning"
+      },
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors, erratic writing, and grammatical issues",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "More details explanation of the paragraph make ai generated it.",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "The lacks of common sense in the paragraph makes me think as ai",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Grammatical issue, strike 'it' or replace 'but' with 'which'",
+        "A5Q1": "Paragraph 3",
+        "A5Q2": "Simple sentence not much about the topic."
+      },
+      {
+        "WorkerID": "A16M39T60N60NO",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "writing in erratic manner",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "lack of creativity",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "Writing is erratic, contains logical error",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "It lacks common sense.",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "contradicts previous sentence"
+      }
+    ]
+  },
+  "hit5": {
+    "Answers": [
+      {
+        "WorkerID": "A1N1ULK71RHVMM",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "It has grammatical issues.",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "It contradicts the previous sentences.",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "It lacks of creativity.",
+        "A4Q1": "Paragraph 3",
+        "A4Q2": "mentions new person as if they were already mentioned",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "It contains logical errors."
+      },
+      {
+        "WorkerID": "A16M39T60N60NO",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "contradicts previous sentence",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "I found all 3 paragraphs to be fine!  I just had to choose #2 to move ahead.",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "contains logical errors",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "There no context/logic shared by these two sentences",
+        "A5Q1": "Paragraph 3",
+        "A5Q2": "contradicts previous sentence"
+      },
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Repetition of the words make ai created it.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "very simple explanation looks unnatural.",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "very simple explanation looks unnatural sentence formation.",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Lack of creativity and sentennce formation.",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "wrong punctuation using."
+      }
+    ]
+  },
+  "hit10": {
+    "Answers": [
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Writing is erratic, lacks common sense.",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "very simple explanation looks unnatural.",
+        "A3Q1": "Paragraph 1",
+        "A3Q2": "The lacks of common sense in the paragraph makes me think as ai",
+        "A4Q1": "Paragraph 2",
+        "A4Q2": "detailed explanation with amount mention makes unnatural",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "wrong punctuation using."
+      },
+      {
+        "WorkerID": "A2DD8TB9F2CAM4",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "It has lack of creativity.",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "It has grammatical issues.",
+        "A3Q1": "Paragraph 1",
+        "A3Q2": "It contains logical errors.",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "It lacks common sense.",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "It has lack of creativity."
+      },
+      {
+        "WorkerID": "A3UQ5DF8VVD975",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "It shows a lack of creativity and humanity.",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "Erratic writing. It seems pasted together from other sources",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "It seems to go off on a tangent, straying from the flow of the story",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "It lacks a good introduction.",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "It contradicts the title and the rest of the paragraphs."
+      }
+    ]
+  },
+  "hit15": {
+    "Answers": [
+      {
+        "WorkerID": "AR0VJ5XRG16UJ",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Writing is erratic, lacks common sense.",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "too boring to read",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "Repetition, writing is erratic",
+        "A4Q1": "Paragraph 3",
+        "A4Q2": "Writing is erratic, it lacks good flow, doesn't seem to follow logically",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "Repetition, grammatical issues, writing is erratic"
+      },
+      {
+        "WorkerID": "A2DD8TB9F2CAM4",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Because it has grammatical mistakes.",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "contains logical errors",
+        "A3Q1": "Paragraph 1",
+        "A3Q2": "It lacks of creativity.",
+        "A4Q1": "Paragraph 3",
+        "A4Q2": "The writing is erratic.",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "lack of creativity"
+      },
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "contradicts previous sentence",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "using extra information which not need in this context.",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "lack of creative boring long text",
+        "A4Q1": "Paragraph 2",
+        "A4Q2": "detailed explanation with amount mention makes unnatural",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "wrong punctuation using."
+      }
+    ]
+  },
+  "hit20": {
+    "Answers": [
+      {
+        "WorkerID": "A16M39T60N60NO",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "It has grammatical issues.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "It contains logical errors.",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "contradicts previous sentences",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "It lacks common sense.",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "It contains logical errors."
+      },
+      {
+        "WorkerID": "A1N1ULK71RHVMM",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "It seems like an automated recommendation based off an algorithm.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "Error in the year",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "Grammatical issues",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Boring and too factual",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "Boring to read"
+      },
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "The starting of the sentence looks unnatural.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "The repetition of the word make me think thats it AI",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "REpetition of the names maybe ai used it.",
+        "A4Q1": "Paragraph 3",
+        "A4Q2": "mention ing of the years and ranking some logical errors.",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "The starting the sentence with apposite  ai must created it."
+      }
+    ]
+  },
+  "hit25": {
+    "Answers": [
+      {
+        "WorkerID": "A2O2Q0LVWOWJ1G",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "There is some grammatical issues as a comma is missing after \"area\" which leads to what sounds like erratic writing for the remainder of the sentence.",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "Writing is erratic and contains logical errors.",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "There is some repetition concerning the overuse of documents.",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Grammatical issues.",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "Grammatical issues."
+      },
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "not using the good flow makes bored to read.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "The repetition of the word make me think thats it AI",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "lack of creative boring long text",
+        "A4Q1": "Paragraph 2",
+        "A4Q2": "Unnatural sentence formation and lack of interest in the text.",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "Simple sentence not much about the topic."
+      },
+      {
+        "WorkerID": "A2DD8TB9F2CAM4",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "It has very repetition to read.",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "It contains logical errors.",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "It lacks of creativity.",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "The writing is erratic.",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "It lacks common sense."
+      }
+    ]
+  },
+  "hit30": {
+    "Answers": [
+      {
+        "WorkerID": "A16M39T60N60NO",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "contradicts previous sentence",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "grammatical issue",
+        "A3Q1": "Paragraph 1",
+        "A3Q2": "lack of creativity",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "contains logical errors",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "lack of creativity"
+      },
+      {
+        "WorkerID": "A2DD8TB9F2CAM4",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "It has lack of creativity.",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "It has lack of creativity.",
+        "A3Q1": "Paragraph 1",
+        "A3Q2": "It contains logical errors.",
+        "A4Q1": "Paragraph 2",
+        "A4Q2": "It is very boring to read.",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "It has lack of creativity."
+      },
+      {
+        "WorkerID": "A3B01L2TR8ZH4O",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Wordy, excessive detail, weird flow.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "Strange flow, grammatical errors",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "Strange flow, erratic writing, bad grammar",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Weird flow, grammatical issues like use of non-word numbers",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "Too wordy compared to the others"
+      }
+    ]
+  },
+  "hit35": {
+    "Answers": [
+      {
+        "WorkerID": "A1AZTE5W2MF1TU",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "The paragraph is blank",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "Grammatical issues",
+        "A3Q1": "Paragraph 1",
+        "A3Q2": "Repetition",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Grammatical issues in this opening paragraph - makes for very lumpy reading!",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "Grammatical issues & erratic writing totally lacking in good flow"
+      },
+      {
+        "WorkerID": "A173A97OFDAX9F",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "it only contains a comma",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "so lengthy and boring",
+        "A3Q1": "Paragraph 1",
+        "A3Q2": "it simply repeats the title",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "bad gramma and boring to read",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "lack of creativity"
+      },
+      {
+        "WorkerID": "A3B01L2TR8ZH4O",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Lacks common sense (just an apostrophe, so not a response)",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "Writing does not have good flow, grammatical issues like \"one in 10\"",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "Does not flow well, too wordy and not succinct.",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Bad flow, grammatical issues",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "Many grammatical issues and flow issues"
+      }
+    ]
+  },
+  "hit40": {
+    "Answers": [
+      {
+        "WorkerID": "A16M39T60N60NO",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Erratic writing and boring to read.",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "lack of creativity",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "contains logical errors",
+        "A4Q1": "Paragraph 2",
+        "A4Q2": "contains logical errors",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "lack of creativity"
+      },
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "The detailed explanation makes with lack of creativity and very boring to read",
+        "A2Q1": "Paragraph 2",
+        "A2Q2": "using of the punition at wrong places.",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "starting sentences with resistive question makes by ai",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "Unwanted information are presented in the paragraph.",
+        "A5Q1": "Paragraph 3",
+        "A5Q2": "using of punctuation at wrong places."
+      },
+      {
+        "WorkerID": "A2DD8TB9F2CAM4",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "It has lack of creativity.",
+        "A2Q1": "Paragraph 1",
+        "A2Q2": "It has lack of creativity.",
+        "A3Q1": "Paragraph 3",
+        "A3Q2": "It contains grammatical issues.",
+        "A4Q1": "Paragraph 2",
+        "A4Q2": "It is very boring to read.",
+        "A5Q1": "Paragraph 1",
+        "A5Q2": "It has lack of creativity."
+      }
+    ]
+  },
+  "hit45": {
+    "Answers": [
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "grammatical issues.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "The repetition of the word make me think thats it AI",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "very simple explanation looks unnatural sentence formation.",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "writing is not in good flow.",
+        "A5Q1": "Paragraph 3",
+        "A5Q2": "Simple sentence not much about the topic."
+      },
+      {
+        "WorkerID": "A16M39T60N60NO",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "contradicts previous sentence",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "lack of creativity",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "grammatical issue",
+        "A4Q1": "Paragraph 1",
+        "A4Q2": "contains logical errors",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "Grammatical issues."
+      },
+      {
+        "WorkerID": "A2DD8TB9F2CAM4",
+        "A0Q1": "Paragraph 2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "It has lack of creativity.",
+        "A2Q1": "Paragraph 3",
+        "A2Q2": "It contradicts the previous sentences.",
+        "A3Q1": "Paragraph 2",
+        "A3Q2": "It contains grammatical issues.",
+        "A4Q1": "Paragraph 2",
+        "A4Q2": "The writing is erratic.",
+        "A5Q1": "Paragraph 2",
+        "A5Q2": "It lacks common sense."
+      }
+    ]
+  }
+}

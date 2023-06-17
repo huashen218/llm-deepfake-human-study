@@ -1,0 +1,1928 @@
+{
+  "34D9ZRXCYS9H2K64YLAJAE1ODHQSA4": {
+    "Answers": [
+      {
+        "WorkerID": "A2T81JXNZRKZTS",
+        "AssignmentId": "33L7PJKHCID6LGOYGP0XDCM4L5Z8T2",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A11WCFPJSR5VZP",
+        "AssignmentId": "3FPRZHYEP0MZXBMH935GND2E24N3VL",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AKQAI78JTXXC9",
+        "AssignmentId": "3G5F9DBFORCERJTGOOUIR73OL94VHJ",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1YSYI926BBOHW",
+        "AssignmentId": "3NG53N1RLXY8TOVRZ8RD82L7W2E8PX",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1XY5N3O4I0979",
+        "AssignmentId": "3FIJLY1B6WJH835E7MXJIU2TJ6RFPL",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3CH1Z6J9R38G9",
+        "AssignmentId": "351SEKWQS2WEPGU5O0A1DQ5D2O0DMC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ADB27NA714ALK",
+        "AssignmentId": "3SPJ033423IRMJJBHZKNAJNXGIAYJ0",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A12ATVBE1I4567",
+        "AssignmentId": "37FMASSAYE6ZE06UPPL3Q7AWIU4BIN",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A6KOTWP7N7RLU",
+        "AssignmentId": "3WJEQKOXAAHJVK54B4013X94JA81AQ",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A9HQ3E0F2AGVO",
+        "AssignmentId": "3WMOAN2SRDC61FFRRMPVWR0K7LENVL",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A27W025UEXS1G0",
+        "AssignmentId": "3GNA64GUZGJA6ID41NZZWN1QZ8Z5QJ",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Contains logical errors/fallacies|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A193SP8INHA4MB",
+        "AssignmentId": "39L1G8WVWS6JBZ6J2PLRGPVYD0G13U",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A6AMYERTGZC3Z",
+        "AssignmentId": "3QAVNHZ3EOJWLR984EIKNCIIHGDLAG",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1ROHCK7KUL2BW",
+        "AssignmentId": "33F859I568SZI5VAJ73IQV9HIHPBHU",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AOW8278GZKXWW",
+        "AssignmentId": "3483FV8BEGYPX3BX4VJ3SBHNFXW62M",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1CA6ZXKK09ZRI",
+        "AssignmentId": "3OS4RQUCRBUF4944OHFINAX422CBFW",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Contradicts previous sentences|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2DD8TB9F2CAM4",
+        "AssignmentId": "3GFK2QRXXBWFQF9QDWY5OCJCN9G5WN",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2GO2OXS4VM1PR",
+        "AssignmentId": "32M8BPYGAV1V5HE55BDHRI1TY7WIGB",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A16IQOX0DK14OJ",
+        "AssignmentId": "3IAEQB9FMGZAUSOJS2GOMO740QEDW3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3UWM3KJYEL5XU",
+        "AssignmentId": "3LS2AMNW5H5WESJM62VY5T1HG34OQ7",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "the Potomac is a river so it'd be hard to go sledding on."
+      },
+      {
+        "WorkerID": "AC10U9G34PQGG",
+        "AssignmentId": "3QY5DC2MXTZU08DAO8WDS0PSRNJFUH",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A39SK1E6IMQBD5",
+        "AssignmentId": "3W92K5RLWWW2BQ9LNMT92A0YG0E5VD",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3F7K8OL4G4W1J",
+        "AssignmentId": "34V1S5K3GUG0XNWWP4YI2YP1L3669E",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A24AWGSJ6PNF6K",
+        "AssignmentId": "3IOEN3P9S9YI8IT1LRJPNS7INRI615",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3398NZQPID9Z8",
+        "AssignmentId": "3TDXMTX3CD9T8OPZTY4VFRO44TTI69",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3O5RKGH6VB19C",
+        "AssignmentId": "3ERMJ6L4D07Y87TVXN7FDYVHGDXM7S",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Repetition",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AEZLVY6VO7HC1",
+        "AssignmentId": "3UJ1CZ6IZJ4MJYSHTRO4RNGRHWK5S8",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Repetition|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1LGOPKEA9SXYS",
+        "AssignmentId": "3STRJBFXOY6QGHQZPEX03HVVG5TKTX",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1NAFXXC41I7NC",
+        "AssignmentId": "3TK8OJTYM30640R4712N0G5F70EVPO",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A132MSWBBVTOES",
+        "AssignmentId": "3IUZPWIU1QMI8YUTKJ2BQ12UKZBWKZ",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1S5KQVM900NE",
+        "AssignmentId": "37M28K1J0SSQQ1L81T677X5QDR8JAC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1SX8IVV82M0LW",
+        "AssignmentId": "3R6P78PK7MQLEVUGZNCL5P329OCTG3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A31Z5TPD8QKE26",
+        "AssignmentId": "354P56DE9MI16260HK31P7UN82FS7A",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "the quotations are wrong."
+      },
+      {
+        "WorkerID": "A2NQR8NLH5P3IH",
+        "AssignmentId": "30JNVC0ORBZMMBXZ2P08LK4G4HRHQD",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2RINH8P33GL6H",
+        "AssignmentId": "3AMYWKA6YD134A02RTH0ZOKQG2T6OT",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AXFTXWW2B0Y5B",
+        "AssignmentId": "3U84XHCDIES1ORAVAEZ2IO7G4FQZ43",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2VZBQLSFZC519",
+        "AssignmentId": "3X3OR7WPZ1FI23GT7GY6RLCNRSEL8D",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "It's unprofessional-sounding. It's like they're talking to a friend rather than writing an article."
+      },
+      {
+        "WorkerID": "AZGNYH1I9CHCS",
+        "AssignmentId": "3LWJHTCVCE128F6T7ZC8IZS3O2DFQC",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Repetition|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2M0DL7IPA5X7B",
+        "AssignmentId": "3OVHNO1VE8GEONTO3P0VLS1MHSIDZT",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Repetition|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2NE7XC5DLIVII",
+        "AssignmentId": "3HHRAGRYXAKQMT20P0KCJYBS630O9L",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Contains logical errors/fallacies|Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A25W82SY783J6X",
+        "AssignmentId": "3WI0P0II6375MW7XT86IZPZN8BZDR0",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Repetition",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ATR6RB1RULOC0",
+        "AssignmentId": "3IJXV6UZ1ZYMU7NJLM7TQMF00GAIRA",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "seems to be off topic"
+      },
+      {
+        "WorkerID": "A3EU8ENRH654SB",
+        "AssignmentId": "3OLQQLKKNU4TGE2KHY8T3GVHY69JEA",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "Not clearly related to the paragraphs that came before. Only the word \"sledding\" connects it to the others."
+      },
+      {
+        "WorkerID": "A19UED74G8FXN3",
+        "AssignmentId": "3300DTYQT4WA216XCOS20H73C11EQW",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "Weird punctuation. The paragraph seems to contain a quote but isn't in quotations, the part that is quoted has an arbitrary quotation mark and no space. Both errors I commonly see in AI-generated works."
+      },
+      {
+        "WorkerID": "A315ULH89GDYPE",
+        "AssignmentId": "37U1UTWH9X1T51B6C0V2DXLMXK5R8B",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Repetition|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2O2Q0LVWOWJ1G",
+        "AssignmentId": "317HQ483I971F9VRSFQCH2AQZJLNIR",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2JP9IKRHNLRPI",
+        "AssignmentId": "3VNXK88KKEXLCDBXQC6QEQ502W19VC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2YNPKYEFDZ6C9",
+        "AssignmentId": "3300DTYQT4WA216XCOS20H73C10EQV",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A35BY30TC8WCL4",
+        "AssignmentId": "3PQ8K71NHZZFP8I47NTUEY27N4JAAS",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3542PB4Z0NE80",
+        "AssignmentId": "3UN61F00HY4AIJS4E2OZ1DBVVU6R5B",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A32W24TWSWXW",
+        "AssignmentId": "33LKR6A5KGZOAG4DH4RIY2ZW7ZUT14",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2ZUKYMM3YV6JN",
+        "AssignmentId": "3OXV7EAXLG5EIL7G8VX8BLMFLB2360",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ARVJHPZH9FC2D",
+        "AssignmentId": "30LB5CDZNEPKP3SURDC06LH3N3F0ZT",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ARJ4HIRCZTYFT",
+        "AssignmentId": "3CTOC39K39587ZNAUQUNX630CJ8J7R",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A191DTTB95FTPZ",
+        "AssignmentId": "37Q970SNZGNNVGRYS4MSOX3A5GLS1J",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A59DVED5S9N9Y",
+        "AssignmentId": "32ZKVD547H2KOXOB4MEGM187ZCD3BL",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Repetition|Lacks common sense|Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1PHDT66U6IK4Q",
+        "AssignmentId": "3VAR3R6G1RGQ8OJQK8EYJ2GHMXQ8OO",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3IRHO9RKEV0L7",
+        "AssignmentId": "39GAF6DQWTF3N882MZRXZKNH4KHV1T",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Repetition|Lacks common sense|Contains logical errors/fallacies|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A28SFTKTGBSD9",
+        "AssignmentId": "37W3JXSD68NDS3JAOY32Z9H5IESYW4",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3QAL3X23LHJRV",
+        "AssignmentId": "3JNQLM5FT617GOE4RZP5HUZK5ST2LY",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AR0VJ5XRG16UJ",
+        "AssignmentId": "3CFJTT4SXV5CCO34C89NL5O0Z4M7I6",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Grammatical issues|Repetition|Lacks common sense|Contains logical errors/fallacies|Contradicts previous sentences|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1ADKYQMD1GU7A",
+        "AssignmentId": "30JNVC0ORBZMMBXZ2P08LK4G4H0QHV",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A16M39T60N60NO",
+        "AssignmentId": "33C7UALJVND5CWCPE6GN7639TMJ814",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Grammatical issues|Repetition|Lacks common sense|Contains logical errors/fallacies|Contradicts previous sentences|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1MJVTR0PCKBWW",
+        "AssignmentId": "3R3YRB5GRHIZ4HW2DSALEZE1U8PAUK",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AYTH0E5PUXWX8",
+        "AssignmentId": "3180JW2OT6RTKV9R6XFQZMP4LETJ5U",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ACQ0B1X5APCD5",
+        "AssignmentId": "3ON104KXQMBXUW5QZRFVJKDYNE84W6",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": "Sounds very formal compared to the other two"
+      },
+      {
+        "WorkerID": "A2Z75NJBZ46RE9",
+        "AssignmentId": "3GA6AFUKOQ3UFARX4EOC8CB5UQ13HM",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3LAVDGDP66YF4",
+        "AssignmentId": "3A7Y0R2P2Q32MET1C3YLR5GOED7JX8",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3JK263LCXWP6R",
+        "AssignmentId": "3JWH6J9I9USRS1HLM5YVVF6D4UPBNW",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2K607J3Z68WRR",
+        "AssignmentId": "31LVTDXBL9POK8VP6P46I27SHLSRLN",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A12IHTKQFQIPD1",
+        "AssignmentId": "32Z9ZLUT1NZJ1ZKJNC84WF9GPHZOH4",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Repetition|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1PBRKFHSF1OF8",
+        "AssignmentId": "34Z02EIMIUSO3RJVLLNIKXGM28ET0T",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3IFDI7BVD94AP",
+        "AssignmentId": "3OS4RQUCRBUF4944OHFINAX4233BFP",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AUJBZFT6JM16L",
+        "AssignmentId": "3FPRZHYEP0MZXBMH935GND2E25FV37",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Lacks common sense|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2IFHU3P1MF54K",
+        "AssignmentId": "373ERPL3YQNC3L3UFY6X4TH9BYFTRT",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1U6L1L2CUQNU5",
+        "AssignmentId": "3TUI152ZZD2BI0CL00XNTXO9NTMQ1G",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A36UZHVNGAP6R6",
+        "AssignmentId": "33PPO7FECXUSTX4E3LC9LXYWLG9IDW",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A249LDVPG27XCE",
+        "AssignmentId": "33NF62TLXLHW2EUUDKJW1B8MI4WKJO",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ATZTNQDBCYYQA",
+        "AssignmentId": "3R08VXYT7EAUDJN91PD2MWX8EG67W1",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A68UG55LKRKMS",
+        "AssignmentId": "3EICBYG646BEJGI6L72YDSVEDVOCJ4",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AD1ILDUXZHASF",
+        "AssignmentId": "3F6KKYWMNDGK7YF501P1Q5UD7F6DNA",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3UFQ0FB9VSSR2",
+        "AssignmentId": "37WLF8U1WR5KEJFNT1P7S73HWYEK6K",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2NAKIXS3DVGAA",
+        "AssignmentId": "388U7OUMF9GBNC63HWINKIF4ENMR0J",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1WKF2VH7TV0H2",
+        "AssignmentId": "3ATPCQ38JAPGLQG7NT7AHKKEQWEAYW",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ACJ6NSCIWMUZI",
+        "AssignmentId": "39GHHAVOMH6BOC5RSSWGUUJQLIA4JM",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1S2EXYEG5I8HW",
+        "AssignmentId": "3ZAK8W07I6T334YKLQDSPT2OLMRU0R",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AZLZA0Q87TJZO",
+        "AssignmentId": "3PJUZCGDJ8VN11FKIJVGMCLSRZV893",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A24LB89P1BPKKF",
+        "AssignmentId": "3JV9LGBJWVT513P836QMBFXFAHTOGC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2IBTYRQIZX1N6",
+        "AssignmentId": "3DL65MZB8FU680WE76R7GCIM8NWECP",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A340UGIDGIF4W6",
+        "AssignmentId": "3VSOLARPKDO1049E620KVVDHBD393C",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3GAQNTZ1V1VO",
+        "AssignmentId": "352YTHGROXSFX6A14STVIH3B8Q74HI",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AOSLTO4W2A476",
+        "AssignmentId": "3RGU30DZTCNRS2UXYWWCGO0Q79WJMX",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A324M5ZRHX7RUV",
+        "AssignmentId": "3O6CYIULEFGWBUZ5EX6DWOBSMR8UWV",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2I6ZALE49CVSC",
+        "AssignmentId": "3H0W84IWBMHAE2LXP3H257H88O0ERW",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1QZ8UA24SOTIU",
+        "AssignmentId": "32UTUBMZ7IB406QUOWKM5W0QQX0BVM",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3BCKNE5CWHODZ",
+        "AssignmentId": "32ZKVD547H2KOXOB4MEGM187ZD8B3Q",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2KED6T6BO622W",
+        "AssignmentId": "3DI28L7YXCTMLXMGR92NZGZV4Q7E11",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": "Is not related to the previous two paragraphs."
+      },
+      {
+        "WorkerID": "A2U8QOJRKUCTWG",
+        "AssignmentId": "3VJ40NV2QK2968BEN6PTAYC40B2TOR",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1OZPLHNIU1519",
+        "AssignmentId": "3R9WASFE21VBM77KUVVL9S47T6YZFS",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ASZME2HK3WFW2",
+        "AssignmentId": "36NEMU28XHSDYMUW5VFR5EUY957MWX",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2AW5504I3KKSG",
+        "AssignmentId": "39GXDJN2OVTLY8SNLK0CEUAPIRHV89",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A272X64FOZFYLB",
+        "AssignmentId": "3BWI6RSP7IO0WJ1IGPJW0QQ87CA7EU",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ARI1EMAHUA9PO",
+        "AssignmentId": "32SVAV9L3HOF5NJJY8EKRQO1HVQA3X",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1IZ4NX41GKU4X",
+        "AssignmentId": "3CPLWGV3MQE8482OOLKZ49BNGUZN9B",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A280KACF4T7RJQ",
+        "AssignmentId": "3YDTZAI2WZV4TVPN23QAQUN4R1G41O",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Contradicts previous sentences|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "can not understand the meaning of sentence"
+      },
+      {
+        "WorkerID": "A382S0KJMW3K9S",
+        "AssignmentId": "39PAAFCODOF4WSKBOIB75Q6CW44VT0",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Repetition|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A18WSAKX5YN2FB",
+        "AssignmentId": "3OXV7EAXLG5EIL7G8VX8BLMFLC1634",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": "nonsensical and confusing"
+      },
+      {
+        "WorkerID": "A2A7O6KYJ9GS8A",
+        "AssignmentId": "3KB8R4ZV1GMLI90ZZ1L05VXG3IHGB7",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3V4AW6DGWBHDO",
+        "AssignmentId": "3OONKJ5DKEY9AMHXNKY8A46IU48OB2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": "hasn't should be haven't. It's gramattically incorrect"
+      },
+      {
+        "WorkerID": "A1GRPIBHW72HDU",
+        "AssignmentId": "3EG49X351WRQYJEUSK4WI1BJS736X5",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A31PW970Z2PC5P",
+        "AssignmentId": "3E47SOBEYSBIO5Y03PHY1RGE0GACI3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2L26DMSVUEDP6",
+        "AssignmentId": "37XITHEISYOVH41JTCB7FJH5NCSRCL",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Repetition",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3F08RS1DXP8PN",
+        "AssignmentId": "3WRFBPLXRC3MP6D87CJPDW81G2RN3W",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A22VGT2F28LTWC",
+        "AssignmentId": "3QECW5O0KJGNYY5WIRTU1SCDJG4T5T",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2J6S7QR4CGXTW",
+        "AssignmentId": "3NPI0JQDAQKRR8NF2628ZYHUAG5TPF",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1AMGHYG5PT0L2",
+        "AssignmentId": "3TXD01ZLD6WK2SGL4R0U1WS12YGU4G",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1TW2BZRRS874Z",
+        "AssignmentId": "3CFVK00FWN0VYPX5E11877GWLYU6LK",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A25N0K40JAZTN1",
+        "AssignmentId": "386CSBG1O116PMDI6694OTFQV4HQ6T",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AMA18W8F60Y2J",
+        "AssignmentId": "3EO896NRAYAV5XKH7TXO22VI1HZJT5",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2I4PRZ9IZMKON",
+        "AssignmentId": "3I3WADAZ9SJ7L60OMA7V7I6QK8OO53",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3NG205QJ48IM4",
+        "AssignmentId": "32EYX73OY2OR3YIJF3W79P3BUC1RUX",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A304UJAE051J89",
+        "AssignmentId": "33PPUNGG3AK8PXCTLQVFQHIQWUGRZM",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2BRZKFG6WAVER",
+        "AssignmentId": "3TE3O85732NIJM9HWJM1368JBLHR2E",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": "It doesn't fit with what the title is about."
+      },
+      {
+        "WorkerID": "A1AZTE5W2MF1TU",
+        "AssignmentId": "3C6FJU71TS800ZU5TYO1HLW8XZGUY2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3BJX6UUSOIKFN",
+        "AssignmentId": "3KGTPGBS6Z0AZE1Y0DH68HV3IKM2UU",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2G9X9TG2XIUDO",
+        "AssignmentId": "3WZ36BJEV5VPNEM5J1K74EC5TCSBTE",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Contains logical errors/fallacies",
+        "A1Q2Other": "There are logical errors so ,logical error is a mistake in a program.  Logical errors are usually resolved by carrying out dry in, using  trace table,"
+      },
+      {
+        "WorkerID": "A2ZJSBAM7CVBKP",
+        "AssignmentId": "3NC5L260MQ1ZN3TDSMK4TUX3923OFN",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1PTH9KTRO06EG",
+        "AssignmentId": "33IZTU6J83GVLHCRZX7ZJ67BAW2SXF",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A22DL4DE4DYB0",
+        "AssignmentId": "351SEKWQS2WEPGU5O0A1DQ5D2P8MDV",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2LTOS0AZ3B28A",
+        "AssignmentId": "3UNH76FOCUKHNRPWKWXFQBFEKDEYMF",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A34GHCIPHACZP",
+        "AssignmentId": "3WR9XG3T65QI4H4PRJ7JR4EHUNK74S",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1DUPOUC9RNU4L",
+        "AssignmentId": "3KKG4CDWKKDMI0SI6G53505NPD9492",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2G4HMUKKEDQXC",
+        "AssignmentId": "30X31N5D655JP44YONFLZYWD9BTAST",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "A lot of information crammed into one paragraph. It's good but also makes it hard to read."
+      },
+      {
+        "WorkerID": "AD75IYA9OIIQF",
+        "AssignmentId": "3DY4FPOOA33RGD7JKT6C5B5U8JBVRR",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2EH7IQCDH2Q5D",
+        "AssignmentId": "3B4YI393VBBNP0QS5N1CKYQJVH1SS8",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A171S8E9IFSHH2",
+        "AssignmentId": "3X1FV8S5JZ60RNY54IC067RN6A0GVG",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3GNJBISE159VU",
+        "AssignmentId": "323Q6SJS8KVPVM7QO9PE9L02XGQHFT",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2A6FH0F7LD9ND",
+        "AssignmentId": "3A1COHJ8NLAGG7X3GVJ8ZTJGACDH8C",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2H8COLIKXJRI1",
+        "AssignmentId": "3C5W7UE9CH5SNMZMF0BD7X85I7LXM9",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2QOB4FDI8ZHOB",
+        "AssignmentId": "3RXCAC0YIT42GB2SWP1QET7FVC1G8D",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2E6Z6NDAES26P",
+        "AssignmentId": "30BUDKLTXFAL9FNZSW4Z26CCG6LE5S",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ABS83QIWSMZ9",
+        "AssignmentId": "3B837J3LDQBBOLQFQY17UOLN9FJRSK",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A20W85POM3LUUS",
+        "AssignmentId": "3XXU1SWE8OAJOVKMFLW1PSQUEJD0AZ",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2QX3YJXAAHHVV",
+        "AssignmentId": "3COPXFW7XDRSOPXS8XOGY7UYR3IPK9",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3B01L2TR8ZH4O",
+        "AssignmentId": "3X4JMASXCOOO75PELZWXK3A0W1Y0BU",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3GWRDHAURRNK6",
+        "AssignmentId": "3TMFV4NEPATYDXSSBU580WT3P0SW8T",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AKMIORNF40ST7",
+        "AssignmentId": "3NQL1CS15TN0DEJ5YOY6D7YRB6TVYW",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2VUF0V7HT51Q3",
+        "AssignmentId": "3X1FV8S5JZ60RNY54IC067RN6A3GVJ",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AMYURTQIMAC8T",
+        "AssignmentId": "3KXIR214I6VBIG7JL7QOVDX9J7224B",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Grammatical issues|Repetition|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1GYII3R62TH65",
+        "AssignmentId": "38JBBYETQQP3DWJZERLPXE6YGARE4O",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ABS5DWGFW9T37",
+        "AssignmentId": "3ATPCQ38JAPGLQG7NT7AHKKEQWSYAY",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3HL2LL0LEPZT8",
+        "AssignmentId": "3EQHHY4HQU7JTTJQYRUN29XOTM2G5D",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1IM6UAEZPJLSE",
+        "AssignmentId": "30ZX6P7VFAA1LYQ4OEDS1FMS14SJ2J",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ABMPX2Y2IRBMG",
+        "AssignmentId": "3OVHNO1VE8GEONTO3P0VLS1MHTUDZ7",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2M5I4KGKF9J7Q",
+        "AssignmentId": "3GD6L00D3UCKXLET87Q6CO44DS9M19",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A19WXS1CLVLEEX",
+        "AssignmentId": "3XLBSAQ9Z6RY7ESECCX9L0RQVIRZ70",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A17AF42SNQNH9C",
+        "AssignmentId": "3TY7ZAOG5HZP08T8RC9QJ6TQJV8K0Z",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3TQD8CNO16IZK",
+        "AssignmentId": "3E4GGUZ1TA6WWIWM6ZD42UM5GTT2K2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3FY6THWKRYN9M",
+        "AssignmentId": "3E13VNJ1NPAY12O2NSSEKVXNWJQ1I9",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A6O1VFV32LBS8",
+        "AssignmentId": "3VZLGYJEYNPSMTY5UP17FZ4EXB6XZT",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1IFIK8J49WBER",
+        "AssignmentId": "3QY5DC2MXTZU08DAO8WDS0PSROVUFA",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contradicts previous sentences",
+        "A1Q2Other": "Paragraph does not follow the topic of the headline and first two paragraphs."
+      },
+      {
+        "WorkerID": "A1198W1SPF1R4",
+        "AssignmentId": "3IO1LGZLKBC0JIDMKCS422UQ1YZ864",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "Contains some irrelevant information when compared with the title"
+      },
+      {
+        "WorkerID": "A1QUXD1OWQ51UG",
+        "AssignmentId": "37WLF8U1WR5KEJFNT1P7S73HWYUK60",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": "Paragraph 3 is written like from the perspective of a person who experienced it while Paragraph 2 is much more properly written than Paragraph 1"
+      },
+      {
+        "WorkerID": "A14GKRTUEHBLBZ",
+        "AssignmentId": "31EUONYN2XIOJ0F3S1P8BG0PXWVVOM",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1KZ0KE93WNN5O",
+        "AssignmentId": "3VSOLARPKDO1049E620KVVDHBDH93Q",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A11S8IAAVDXCUS",
+        "AssignmentId": "3WOKGM4L73V8QZENP41JQNAZ30K0O1",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3APMO8WXVH1V0",
+        "AssignmentId": "3OS46CRSLHEYUU9ZS53EUGEYCW1V6X",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A6717SDXOR1OP",
+        "AssignmentId": "3OSWBBLG1GCPJST927CAO7LB9TYDXC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AV4584AQEQAEN",
+        "AssignmentId": "35H6S234SCFHW0UKMEL1QIKZZ81653",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contradicts previous sentences",
+        "A1Q2Other": "Had a new speaker talking who wasn't previously introduced."
+      },
+      {
+        "WorkerID": "A1UY2W2FL9CWN",
+        "AssignmentId": "3PXX5PX6LZDK8INWD1TQ99MD5NCBAY",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3VPD34C23PQTQ",
+        "AssignmentId": "3RU7GD8VPQ8QC8A0D6XIPTL88XZPSU",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2M5FMPK7NJKDR",
+        "AssignmentId": "34FNN24DCOOJFK4QSXGT994SYIV5Y3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3RHJEMZ4EGY2U",
+        "AssignmentId": "3UJ1CZ6IZJ4MJYSHTRO4RNGRHXZ5SP",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2ZZ036CZCJJR0",
+        "AssignmentId": "3TEM0PF1Q7CHM2NYZVN3FTY0ZMED0I",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ANWRXKAOV327E",
+        "AssignmentId": "378XPAWRUESUVQ12JBL7VWQQ0DYIAG",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3JOUIM3CDC1DZ",
+        "AssignmentId": "388U7OUMF9GBNC63HWINKIF4EN50RB",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2YO837C0O1E91",
+        "AssignmentId": "3TMFV4NEPATYDXSSBU580WT3P0WW8X",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AOMFEAWQHU3D8",
+        "AssignmentId": "3KRVW3HTZP0KR5DNLQ5Q8PRD3SPSM2",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3T3WRVSK1N2PR",
+        "AssignmentId": "3KXIR214I6VBIG7JL7QOVDX9J7542G",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A16E38HXNQBLCU",
+        "AssignmentId": "32RIADZISUJ4NFOHFM5UMVADH14S47",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3UQ5DF8VVD975",
+        "AssignmentId": "3WR9XG3T65QI4H4PRJ7JR4EHUNR47W",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A39MKVROUZ1UWR",
+        "AssignmentId": "3I3WADAZ9SJ7L60OMA7V7I6QK9X5OV",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contradicts previous sentences|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3F51C49T9A34D",
+        "AssignmentId": "32KTQ2V7RFU2MQHOCK5ZRUMNB40M9L",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1YPIJR0B4YDEW",
+        "AssignmentId": "3180JW2OT6RTKV9R6XFQZMP4LFN5JC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A173A97OFDAX9F",
+        "AssignmentId": "3H0W84IWBMHAE2LXP3H257H88OFERB",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Repetition|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ATMIFF1CQZR0A",
+        "AssignmentId": "3Z3ZLGNNSK97S3Q0N4B6HQ36LEP3QC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ABO9F0JD9NN54",
+        "AssignmentId": "36NEMU28XHSDYMUW5VFR5EUY96MMWE",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2PQDK3MLDFXYM",
+        "AssignmentId": "32AT8R96GNO34DIWUSWCZZ87GFUUS0",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1GQ2Q1USIMC63",
+        "AssignmentId": "3VW04L3ZLVL3HYYQT7DMIEO3PCDXX3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AJQGWGESKQT4Y",
+        "AssignmentId": "3FTYUGLFSW0GH99ZW1TFWOURGVSD58",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AX8NXTT8QMGHC",
+        "AssignmentId": "3E47SOBEYSBIO5Y03PHY1RGE0HLCIG",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3T9WZOUQGE2UW",
+        "AssignmentId": "386PBUZZXHC7MKCCYKVXGBL175PLJI",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AESEZX8S7Z3IC",
+        "AssignmentId": "3RUIQRXJBD3DHA0C157AWQYTBUULLK",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2RBF3IIJP15IH",
+        "AssignmentId": "3OLF68YTNBGALZZCI3FMSZDYKM9AFM",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2RWLFIP23FZA7",
+        "AssignmentId": "33NF62TLXLHW2EUUDKJW1B8MI5KJKD",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AH00EJ6PK1H3A",
+        "AssignmentId": "36V4Q8R5ZMF8EPYATMGLDPCCL57MQC",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AXIOIDNDBZQ0F",
+        "AssignmentId": "3KXIR214I6VBIG7JL7QOVDX9J8842L",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Contains logical errors/fallacies|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3HJ1RFM8ZYNGZ",
+        "AssignmentId": "39N5ACM9HG287TE140XR8YGIGAE9P9",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1JTWL9C01VHVS",
+        "AssignmentId": "3I3WADAZ9SJ7L60OMA7V7I6QK9Z5OX",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AZ69TBTDH7AZS",
+        "AssignmentId": "3ZWFC4W1UWM2KGLTKE18NP28KQXFRZ",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2X4TZTILMIYVI",
+        "AssignmentId": "3Q5C1WP23OGMPETNG89KVMTIRYP51A",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A8E99XNOTT390",
+        "AssignmentId": "3F1567XTNYKT75FG4DCG836SL61Q9I",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3I9XLIHPPWPN1",
+        "AssignmentId": "3HMVI3QICL7KR237RAEH6JRBM3UY1K",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A13GUTDMGGZZDL",
+        "AssignmentId": "36U2A8VAG3EMX3PTZKKZBYNAV9UYKN",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1WCQRVQC6BVA1",
+        "AssignmentId": "3LYA37P8IS2QKVWIPS6F3NP9A0DBKM",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1YRYQBQGQRY1Q",
+        "AssignmentId": "3VHHR074H5WE2PBAXB60DLGSGAQ7LY",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1BHR5XQ16T7LA",
+        "AssignmentId": "3FE7TXL1LK2I7LUHJ4X1YGYEF0S2Q3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "Punctuation where it says 'hiking,\"sledding' looks odd"
+      },
+      {
+        "WorkerID": "A1EN6ZHGRHS7U0",
+        "AssignmentId": "3CCZ6YKWR9Y4EJWIKLODASB1PAF59L",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies",
+        "A1Q2Other": "NOTHING"
+      },
+      {
+        "WorkerID": "A49A0FF6ZXYDU",
+        "AssignmentId": "3RANCT1ZVHW4NR1UJ6AH9AY7CRABUI",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A24DSECWUBZC0Z",
+        "AssignmentId": "392CY0QWG36FT1LLAABGIT4Q8474IY",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ANUA9X7BFPTR8",
+        "AssignmentId": "352YTHGROXSFX6A14STVIH3B8RS4H5",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1Y00EQN7EG2JC",
+        "AssignmentId": "33UKMF931BZPJ0GMJNBS48IRZK4TT0",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3VL1CBZ3BGQK7",
+        "AssignmentId": "3C2NJ6JBKCWX4OHP3C5KUM39AP5N21",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2J43GKTP92XM2",
+        "AssignmentId": "3TUI152ZZD2BI0CL00XNTXO9NUEQ1A",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contradicts previous sentences|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2JMIAOV67CPHI",
+        "AssignmentId": "39GXDJN2OVTLY8SNLK0CEUAPISZV8T",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2PD9SHVWNX7Q2",
+        "AssignmentId": "3QEMNNSB2ZEV4DNIKU8CU88N71P7DJ",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AW3QNBWHGXVQK",
+        "AssignmentId": "33SA9F9TRZ9FMY2JOXR8S6PP04ZWE3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2QU9LEVX521Y1",
+        "AssignmentId": "3HVVDCPGTG7L0MFGTTYRCPA6EMMTYP",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": "It makes no sense that people wouldn't be allowed to say \"sledding\" or \"hiking\"."
+      },
+      {
+        "WorkerID": "A3KK5FKG3L0Q66",
+        "AssignmentId": "369J354OFFPFCXJ43A4SUFBOPIMG64",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2F1AA15HG0FRU",
+        "AssignmentId": "33C7UALJVND5CWCPE6GN7639TOT81I",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3ADQ2RLQNJQDU",
+        "AssignmentId": "3BWI6RSP7IO0WJ1IGPJW0QQ87DRE7K",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2BT7QVGXJKFKI",
+        "AssignmentId": "3P1L2B7AD34LNV39EXN2O72N6Z2OL7",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies",
+        "A1Q2Other": "topic is not clearly related to the title."
+      },
+      {
+        "WorkerID": "AG2YM9OWQP690",
+        "AssignmentId": "35GCEFQ6I73G6VRRA0UJ8JFAQHDZ35",
+        "A1Q1": "Paragraph 2",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2DDPSXH2X96RF",
+        "AssignmentId": "3NGI5ARFTVKQIOB60NIYTSYZIYTP1J",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AW2IJYOPX2MSE",
+        "AssignmentId": "39K0FND3AJUGR9RT4QJZNPX7HNOMA8",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Contains logical errors/fallacies|Lack of creativity or boring to read|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1SN0UU3V61IIM",
+        "AssignmentId": "3KRVW3HTZP0KR5DNLQ5Q8PRD3TVMS4",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1N1ULK71RHVMM",
+        "AssignmentId": "35H6S234SCFHW0UKMEL1QIKZZ9865C",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "Jumps to mention person not previously named in story"
+      },
+      {
+        "WorkerID": "A2BK45LZGGWPLX",
+        "AssignmentId": "3S0TNUHWKVXZ4RS1UZ0I884IILX8D9",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A34YDGVZKRJ0LZ",
+        "AssignmentId": "34S6N1K2ZXYBVEHMAKSC4Y5MUDNLHF",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense|Contradicts previous sentences",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2JXPT39AWRES7",
+        "AssignmentId": "37W3JXSD68NDS3JAOY32Z9H5IG6WYK",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A2KHMKJUVDMK1N",
+        "AssignmentId": "34J10VATJHDMI68J87ITLW5V4WRIQW",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A1IXVPKQT4DXTG",
+        "AssignmentId": "337RC3OW07HGDFC6F99GJZWV2S0VLH",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": "It has no thematic connection to the prior paragraphs."
+      },
+      {
+        "WorkerID": "A1URG4XSUU07AK",
+        "AssignmentId": "3QBD8R3Z23YPPNWO85OL2Q0CKD8O4F",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AVCOBHDVXZOZL",
+        "AssignmentId": "3LOZAJ85YFS2GIVT5ISTSOU7C3I2X3",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Repetition",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ACYH2RL9NM7FS",
+        "AssignmentId": "39OWYR0EPM6BHHXFY9T2VLV5NDHYFP",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A222R4PNCF08OF",
+        "AssignmentId": "35H6S234SCFHW0UKMEL1QIKZZ9B65F",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Contains logical errors/fallacies|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A3PZFJZ8Q17O33",
+        "AssignmentId": "33FBRBDW6QEPZZMNU357O2M0XLNC8F",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "A10249252O9I20MRSOBVF",
+        "AssignmentId": "3NLZY2D53R4O87GPTAF6DCXNL0MQLJ",
+        "A1Q1": "Paragraph 1",
+        "A1Q2": "Repetition|Lack of creativity or boring to read",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "ATJ92FYQX176Z",
+        "AssignmentId": "3KRVW3HTZP0KR5DNLQ5Q8PRD3TZMS8",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Lacks common sense",
+        "A1Q2Other": null
+      },
+      {
+        "WorkerID": "AVBRJBJONL47I",
+        "AssignmentId": "33PPO7FECXUSTX4E3LC9LXYWLH9IDY",
+        "A1Q1": "Paragraph 3",
+        "A1Q2": "Grammatical issues|Writing is erratic (i.e., does not have a good flow)",
+        "A1Q2Other": null
+      }
+    ],
+    "Correct_Workers": [
+      "A2T81JXNZRKZTS",
+      "A11WCFPJSR5VZP",
+      "AKQAI78JTXXC9",
+      "A1YSYI926BBOHW",
+      "A1XY5N3O4I0979",
+      "A3CH1Z6J9R38G9",
+      "ADB27NA714ALK",
+      "A12ATVBE1I4567",
+      "A6KOTWP7N7RLU",
+      "A9HQ3E0F2AGVO",
+      "A27W025UEXS1G0",
+      "A193SP8INHA4MB",
+      "A6AMYERTGZC3Z",
+      "A1ROHCK7KUL2BW",
+      "AOW8278GZKXWW",
+      "A1CA6ZXKK09ZRI",
+      "A2DD8TB9F2CAM4",
+      "A2GO2OXS4VM1PR",
+      "A16IQOX0DK14OJ",
+      "A3UWM3KJYEL5XU",
+      "AC10U9G34PQGG",
+      "A39SK1E6IMQBD5",
+      "A3F7K8OL4G4W1J",
+      "A24AWGSJ6PNF6K",
+      "A3398NZQPID9Z8",
+      "A3O5RKGH6VB19C",
+      "AEZLVY6VO7HC1",
+      "A1LGOPKEA9SXYS",
+      "A1NAFXXC41I7NC",
+      "A132MSWBBVTOES",
+      "A1S5KQVM900NE",
+      "A1SX8IVV82M0LW",
+      "A31Z5TPD8QKE26",
+      "A2NQR8NLH5P3IH",
+      "A2RINH8P33GL6H",
+      "AXFTXWW2B0Y5B",
+      "A2VZBQLSFZC519",
+      "AZGNYH1I9CHCS",
+      "A2M0DL7IPA5X7B",
+      "A2NE7XC5DLIVII",
+      "A25W82SY783J6X",
+      "ATR6RB1RULOC0",
+      "A3EU8ENRH654SB",
+      "A19UED74G8FXN3",
+      "A315ULH89GDYPE",
+      "A2O2Q0LVWOWJ1G",
+      "A2JP9IKRHNLRPI",
+      "A2YNPKYEFDZ6C9",
+      "A35BY30TC8WCL4",
+      "A3542PB4Z0NE80",
+      "A32W24TWSWXW",
+      "A2ZUKYMM3YV6JN",
+      "ARVJHPZH9FC2D",
+      "ARJ4HIRCZTYFT",
+      "A191DTTB95FTPZ",
+      "A59DVED5S9N9Y",
+      "A1PHDT66U6IK4Q",
+      "A3IRHO9RKEV0L7",
+      "A28SFTKTGBSD9",
+      "A3QAL3X23LHJRV",
+      "AR0VJ5XRG16UJ",
+      "A1ADKYQMD1GU7A",
+      "A16M39T60N60NO",
+      "A1MJVTR0PCKBWW",
+      "AYTH0E5PUXWX8",
+      "ACQ0B1X5APCD5",
+      "A2Z75NJBZ46RE9",
+      "A3LAVDGDP66YF4",
+      "A3JK263LCXWP6R",
+      "A2K607J3Z68WRR",
+      "A12IHTKQFQIPD1",
+      "A1PBRKFHSF1OF8",
+      "A3IFDI7BVD94AP",
+      "AUJBZFT6JM16L",
+      "A2IFHU3P1MF54K",
+      "A1U6L1L2CUQNU5",
+      "A36UZHVNGAP6R6",
+      "A249LDVPG27XCE",
+      "ATZTNQDBCYYQA",
+      "A68UG55LKRKMS",
+      "AD1ILDUXZHASF",
+      "A3UFQ0FB9VSSR2",
+      "A2NAKIXS3DVGAA",
+      "A1WKF2VH7TV0H2",
+      "ACJ6NSCIWMUZI",
+      "A1S2EXYEG5I8HW",
+      "AZLZA0Q87TJZO",
+      "A24LB89P1BPKKF",
+      "A2IBTYRQIZX1N6",
+      "A340UGIDGIF4W6",
+      "A3GAQNTZ1V1VO",
+      "AOSLTO4W2A476",
+      "A324M5ZRHX7RUV",
+      "A2I6ZALE49CVSC",
+      "A1QZ8UA24SOTIU",
+      "A3BCKNE5CWHODZ",
+      "A2KED6T6BO622W",
+      "A2U8QOJRKUCTWG",
+      "A1OZPLHNIU1519",
+      "ASZME2HK3WFW2",
+      "A2AW5504I3KKSG",
+      "A272X64FOZFYLB",
+      "ARI1EMAHUA9PO",
+      "A1IZ4NX41GKU4X",
+      "A280KACF4T7RJQ",
+      "A382S0KJMW3K9S",
+      "A18WSAKX5YN2FB",
+      "A2A7O6KYJ9GS8A",
+      "A3V4AW6DGWBHDO",
+      "A1GRPIBHW72HDU",
+      "A31PW970Z2PC5P",
+      "A2L26DMSVUEDP6",
+      "A3F08RS1DXP8PN",
+      "A22VGT2F28LTWC",
+      "A2J6S7QR4CGXTW",
+      "A1AMGHYG5PT0L2",
+      "A1TW2BZRRS874Z",
+      "A25N0K40JAZTN1",
+      "AMA18W8F60Y2J",
+      "A2I4PRZ9IZMKON",
+      "A3NG205QJ48IM4",
+      "A304UJAE051J89",
+      "A2BRZKFG6WAVER",
+      "A1AZTE5W2MF1TU",
+      "A3BJX6UUSOIKFN",
+      "A2G9X9TG2XIUDO",
+      "A2ZJSBAM7CVBKP",
+      "A1PTH9KTRO06EG",
+      "A22DL4DE4DYB0",
+      "A2LTOS0AZ3B28A",
+      "A34GHCIPHACZP",
+      "A1DUPOUC9RNU4L",
+      "A2G4HMUKKEDQXC",
+      "AD75IYA9OIIQF",
+      "A2EH7IQCDH2Q5D",
+      "A171S8E9IFSHH2",
+      "A3GNJBISE159VU",
+      "A2A6FH0F7LD9ND",
+      "A2H8COLIKXJRI1",
+      "A2QOB4FDI8ZHOB",
+      "A2E6Z6NDAES26P",
+      "ABS83QIWSMZ9",
+      "A20W85POM3LUUS",
+      "A2QX3YJXAAHHVV",
+      "A3B01L2TR8ZH4O",
+      "A3GWRDHAURRNK6",
+      "AKMIORNF40ST7",
+      "A2VUF0V7HT51Q3",
+      "AMYURTQIMAC8T",
+      "A1GYII3R62TH65",
+      "ABS5DWGFW9T37",
+      "A3HL2LL0LEPZT8",
+      "A1IM6UAEZPJLSE",
+      "ABMPX2Y2IRBMG",
+      "A2M5I4KGKF9J7Q",
+      "A19WXS1CLVLEEX",
+      "A17AF42SNQNH9C",
+      "A3TQD8CNO16IZK",
+      "A3FY6THWKRYN9M",
+      "A6O1VFV32LBS8",
+      "A1IFIK8J49WBER",
+      "A1198W1SPF1R4",
+      "A1QUXD1OWQ51UG",
+      "A14GKRTUEHBLBZ",
+      "A1KZ0KE93WNN5O",
+      "A11S8IAAVDXCUS",
+      "A3APMO8WXVH1V0",
+      "A6717SDXOR1OP",
+      "AV4584AQEQAEN",
+      "A1UY2W2FL9CWN",
+      "A3VPD34C23PQTQ",
+      "A2M5FMPK7NJKDR",
+      "A3RHJEMZ4EGY2U",
+      "A2ZZ036CZCJJR0",
+      "ANWRXKAOV327E",
+      "A3JOUIM3CDC1DZ",
+      "A2YO837C0O1E91",
+      "AOMFEAWQHU3D8",
+      "A3T3WRVSK1N2PR",
+      "A16E38HXNQBLCU",
+      "A3UQ5DF8VVD975",
+      "A39MKVROUZ1UWR",
+      "A3F51C49T9A34D",
+      "A1YPIJR0B4YDEW",
+      "A173A97OFDAX9F",
+      "ATMIFF1CQZR0A",
+      "ABO9F0JD9NN54",
+      "A2PQDK3MLDFXYM",
+      "A1GQ2Q1USIMC63",
+      "AJQGWGESKQT4Y",
+      "AX8NXTT8QMGHC",
+      "A3T9WZOUQGE2UW",
+      "AESEZX8S7Z3IC",
+      "A2RBF3IIJP15IH",
+      "A2RWLFIP23FZA7",
+      "AH00EJ6PK1H3A",
+      "AXIOIDNDBZQ0F",
+      "A3HJ1RFM8ZYNGZ",
+      "A1JTWL9C01VHVS",
+      "AZ69TBTDH7AZS",
+      "A2X4TZTILMIYVI",
+      "A8E99XNOTT390",
+      "A3I9XLIHPPWPN1",
+      "A13GUTDMGGZZDL",
+      "A1WCQRVQC6BVA1",
+      "A1YRYQBQGQRY1Q",
+      "A1BHR5XQ16T7LA",
+      "A1EN6ZHGRHS7U0",
+      "A49A0FF6ZXYDU",
+      "A24DSECWUBZC0Z",
+      "ANUA9X7BFPTR8",
+      "A1Y00EQN7EG2JC",
+      "A3VL1CBZ3BGQK7",
+      "A2J43GKTP92XM2",
+      "A2JMIAOV67CPHI",
+      "A2PD9SHVWNX7Q2",
+      "AW3QNBWHGXVQK",
+      "A2QU9LEVX521Y1",
+      "A3KK5FKG3L0Q66",
+      "A2F1AA15HG0FRU",
+      "A3ADQ2RLQNJQDU",
+      "A2BT7QVGXJKFKI",
+      "AG2YM9OWQP690",
+      "A2DDPSXH2X96RF",
+      "AW2IJYOPX2MSE",
+      "A1SN0UU3V61IIM",
+      "A1N1ULK71RHVMM",
+      "A2BK45LZGGWPLX",
+      "A34YDGVZKRJ0LZ",
+      "A2JXPT39AWRES7",
+      "A2KHMKJUVDMK1N",
+      "A1IXVPKQT4DXTG",
+      "A1URG4XSUU07AK",
+      "AVCOBHDVXZOZL",
+      "ACYH2RL9NM7FS",
+      "A222R4PNCF08OF",
+      "A3PZFJZ8Q17O33",
+      "A10249252O9I20MRSOBVF",
+      "ATJ92FYQX176Z",
+      "AVBRJBJONL47I"
+    ]
+  }
+}
