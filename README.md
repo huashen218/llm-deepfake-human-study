@@ -13,9 +13,11 @@
 This repository aims to investigate <em><strong>if human collaboration can improve the performance of detecting LLM-generated deepfake texts</em></strong>, which includes the data and codes of MTurk human studies.
 
 
-The work is to support the paper 
+The work is to support the [AAAI HCOMP 2023](https://www.humancomputation.com/) paper 
 ["Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?"](https://arxiv.org/pdf/2304.01002.pdf)
- by Adaku Uchendu*, Jooyoung Lee∗, Hua Shen∗, Thai Le, Ting-Hao ‘Kenneth’ Huang, Dongwon Lee.
+ by Adaku Uchendu*, Jooyoung Lee∗, Hua Shen∗, Thai Le, Ting-Hao ‘Kenneth’ Huang, Dongwon Lee. 
+
+
 
 
 
