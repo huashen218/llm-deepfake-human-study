@@ -1,6 +1,11 @@
 
 # Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?
 
+
+
+[![Arxiv](https://img.shields.io/badge/Arxiv-2304.01002-yellow)](https://arxiv.org/pdf/2304.01002.pdf)
+
+
 This repository aims to investigate <em><strong>if human collaboration can improve the performance of detecting LLM-generated deepfake texts</em></strong>, which includes the data and codes of MTurk human studies.
 
 
