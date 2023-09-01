@@ -4,8 +4,8 @@
 
 
 [![Arxiv](https://img.shields.io/badge/Arxiv-2304.01002-orange)](https://arxiv.org/pdf/2304.01002.pdf)
-[![Data](https://img.shields.io/badge/llm-data-blue)](generate_hit_htmls/data_gpt2_trial.csv)
-[![Repo](https://img.shields.io/badge/llm-repo-green)](https://github.com/huashen218/llm-deepfake-human-study/archive/refs/heads/main.zip)
+[![Articles](https://img.shields.io/badge/Data-.csv-blue)](generate_hit_htmls/data_gpt2_trial.csv)
+[![Repo](https://img.shields.io/badge/Repo-.zip-green)](https://github.com/huashen218/llm-deepfake-human-study/archive/refs/heads/main.zip)
 
 
 
